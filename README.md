@@ -22,7 +22,8 @@ The Expense Tracker is a simple and user-friendly application that allows users 
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/your-username/group-36-22RP01818-22RP03352-Expence_tracker/expense-tracker.git
+
 cd expense-tracker
 
 #Developers
