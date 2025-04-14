@@ -21,12 +21,18 @@ The Expense Tracker is a simple and user-friendly application that allows users 
 
 ## 🛠️ Setup Instructions
 
+
 ## option 1:
+
+#option 1:
+
 ### 1. Clone the Repository
 git clone https://github.com/MUSABYEMARIYAGisele/group-36-22RP01818-22RP03352-Expence_tracker/expense-tracker.git
 
 cd expense-tracker
 ## Option 2: Download ZIP
+
+#Option 2: Download ZIP
 Visit: https://github.com/MUSABYEMARIYAGisele/group-36-22RP01818-22RP03352-Expence_tracker
 
 Click the green Code button, then select Download ZIP.
