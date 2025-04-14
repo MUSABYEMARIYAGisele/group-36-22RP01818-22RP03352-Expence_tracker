@@ -34,5 +34,5 @@ Click the green Code button, then select Download ZIP.
 Extract the ZIP file on your computer.
 
 #Developers
-IRASHIMWA KWITONDA Marie Sandrine
+IRASHIMWA KWITONDA Marie Sandrine ,
 MUSABYEMARIYA Gisele
