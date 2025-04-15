@@ -24,7 +24,7 @@
     </div>
 
     <div class="recent-expenses">
-        <h3>Recent Expenses</h3>
+        <h3>Recently Expenses</h3>
         <table class="table">
             <thead>
                 <tr>
