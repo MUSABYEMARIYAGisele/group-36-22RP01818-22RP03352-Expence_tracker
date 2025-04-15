@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header d-flex justify-content-between align-items-center">
                     <h2>Expenses</h2>
-                    <a href="{{ route('expenses.create') }}" class="btn btn-primary">Add New Expense</a>
+                    <a href="{{ route('expenses.create') }}" class="btn btn-primary">Add  Expense</a>
                 </div>
 
                 <div class="card-body">
