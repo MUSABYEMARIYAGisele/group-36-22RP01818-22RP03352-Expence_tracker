@@ -19,6 +19,11 @@ The Expense Tracker is a simple and user-friendly application that allows users 
 - Frontend: html
 - Database:mysql
 
+## LOGIN CREDENTIALS:
+
+username:sandrine
+password:123456
+
 ## 🛠️ Setup Instructions
 
 #option 1:
